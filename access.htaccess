@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "wjsxkxk1"
-AuthUserFile https://wjsxkxk1.github.io/website/.htpasswd
-require valid-user
